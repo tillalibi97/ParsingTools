@@ -2,7 +2,7 @@
 
 ### https://browser-info.ru/
 
-This tool is for taking some required datas from this web-site
+This tool is for taking some required data from this web-site
 
 ### fake_useragen
 
